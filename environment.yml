@@ -1,0 +1,10 @@
+name: data-analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - seaborn
+  - scikit-learn
+  - jupyterlab
+prefix: /opt/homebrew/Caskroom/miniconda/base/envs/data-analysis
